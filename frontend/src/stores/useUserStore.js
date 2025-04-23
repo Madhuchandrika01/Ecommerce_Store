@@ -41,7 +41,7 @@ export const useUserStore = create((set, get) => ({
   logout: async () => {
     try {
       await axios.post("/auth/logout");
-      localStorage.removeItem("accessToken"); // Clear access token
+      localStorage.removeItem("accessToken"); 
       set({ user: null });
     } catch (error) {
       toast.error(error.response?.data?.message || "An error occurred during logout");

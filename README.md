@@ -16,9 +16,30 @@ A full-stack e-commerce web application built with the **MERN stack**. This proj
 - ⚙️ Zustand-based global state management
 - 🌐 Fully responsive design (Tailwind CSS)
 - 🚀 Deployed on Railway
-![home page](https://github.com/user-attachments/assets/a9331b7a-7eed-4a58-8d6c-46496afcca51)
+
 
 ---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page – Explore Categories  
+![Home Page](./homepage.png)
+
+### 🛠️ Admin - Create Product  
+![Create Product](./create-product.png)
+
+### 📋 Admin - Product List  
+![Product List](./product-list.png)
+
+### 📈 Analytics Dashboard  
+![Analytics](./analytics.png)
+
+### 🛒 Cart and Checkout  
+![Cart Summary](./cart-summary.png)
+
+### 💳 Stripe Payment Page  
+![Stripe Checkout](./stripe-checkout.png)
+
 
 ## 🧰 Tech Stack
 

@@ -16,6 +16,7 @@ A full-stack e-commerce web application built with the **MERN stack**. This proj
 - ⚙️ Zustand-based global state management
 - 🌐 Fully responsive design (Tailwind CSS)
 - 🚀 Deployed on Railway
+![home page](https://github.com/user-attachments/assets/a9331b7a-7eed-4a58-8d6c-46496afcca51)
 
 ---
 

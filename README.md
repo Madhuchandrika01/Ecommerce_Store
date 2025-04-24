@@ -20,25 +20,6 @@ A full-stack e-commerce web application built with the **MERN stack**. This proj
 
 ---
 
-## 🖼️ Screenshots
-
-### 🏠 Home Page – Explore Categories  
-![home page](https://github.com/user-attachments/assets/8ebfb6ae-5397-499b-84bf-01e537195d37)
-
-### 📋 Admin - Product List  
-![product](https://github.com/user-attachments/assets/f0e67b0d-50ec-41cf-b226-e1826e8aeb74)
-
-
-### 📈 Analytics Dashboard  
-![analytics](https://github.com/user-attachments/assets/5b1112a0-9c5a-48a7-a0e1-c0bf4d365805)
-
-
-### 🛒 Cart and Checkout  
-![cart](https://github.com/user-attachments/assets/52603257-86d0-42da-a5af-2d77bf775f60)
-
-
-### 💳 Stripe Payment Page  
-![stripe](https://github.com/user-attachments/assets/f9955541-cd1e-4ab9-a59e-fdab79cc0e98)
 
 
 
